@@ -6,7 +6,7 @@ this is a biased template to be used for AgriEdge project hosted in google drive
 - clone the template localy and start working 
 > Method 2 
 - create a colab notebook and run this script : 
-```
+```python
 def create_project_from_template( project_name , projects_folder ,template_path = 'https://github.com/AnasAito/AgriEdge-project-template.git' ):
   # mount drive 
   
